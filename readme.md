@@ -14,7 +14,7 @@ Discipline: Intelligent Objects Connected- 5th period
 
 ## Features
 
- Pet feeder OIC Arduino Uno Based with timer and accurate portions delivered each time.
+ Pet feeder with timer and accurate portions delivered each time.
  Our version of a pet feeder is based on an Arduino microcontroller. 
 
  These are the features:
