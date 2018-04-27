@@ -15,4 +15,6 @@ Discipline: Intelligent Objects Connected- 5th period
 
  Pet feeder OIC Arduino Uno Based with timer and accurate portions delivered each time.
  
- 
+ ## Latest Updates
+
+-   Documentation deploy with hardware description - 04/27
