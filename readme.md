@@ -33,7 +33,7 @@ Discipline: Intelligent Objects Connected- 5th period
 
  ## Latest Updates
 
--   Documentation deploy with hardware description - 04/27
+-   Documentation with hardware description - 04/27
 
 ## Contributors
 -  Jéssica Barreto
