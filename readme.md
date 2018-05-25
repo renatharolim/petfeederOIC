@@ -1,7 +1,9 @@
-# Pet Feeder – Arduino Uno Based Project
+# Pet Feeder Wood – Arduino Uno Based Project
 
 ![Resultado de imagem para pet eating](https://pv-web-01t.s3.amazonaws.com/wordpress/wp-content/uploads/2013/12/Pets-that-Dont-Chew-Their-Food.jpg)
 Welcome to Pet Feeder OIC Repository 
+
+![PetFeeder](https://github.com/renatharolim/petfeederOIC/blob/master/PetFeeder.jpeg)
 
 Presbyterian Mackenzie University - FCI
 
